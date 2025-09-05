@@ -4,7 +4,7 @@
 </h1>
 <p>The script is a Python program designed to download an image from a URL and save it to a local directory named Fetched_Images. It uses several libraries to perform this task reliably.
 </p>
-<h2></h2>1. Library Imports
+<h2>1. Library Imports
 </h2>
 <p>os: This library handles interactions with the operating system, specifically for creating directories and managing file paths.
 requests: The primary library for making HTTP requests, used here to download the image from the internet.
