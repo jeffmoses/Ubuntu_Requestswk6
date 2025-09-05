@@ -49,6 +49,15 @@ def download_image(url):
     except IOError as e:
         print(f"Error saving file: {e}")
 
-if __name__ == "__main__":
+def main():
+    """
+    Main function to run the image fetching tool.
+    """
+    print("Welcome to the Ubuntu Image Fetcher")
+    print("A tool for mindfully collecting images from the web\n")
+    
     image_url = input("Enter the URL of the image you want to download: ")
     download_image(image_url)
+
+if __name__ == "__main__":
+    main()
