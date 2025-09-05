@@ -2,8 +2,8 @@
 
 <h1>How the Script Works
 </h1>
-<p>The script is a Python program designed to download an image from a URL and save it to a local directory named **Fetched_Images**. It uses several libraries to perform this task reliably.
-</p>
+The script is a Python program designed to download an image from a URL and save it to a local directory named **Fetched_Images**. It uses several libraries to perform this task reliably.
+
 <h2>1. Library Imports
 </h2>
 <p>**os:** This library handles interactions with the operating system, --specifically for creating directories and managing file paths--.
